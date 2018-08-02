@@ -9,7 +9,7 @@ import io
 import quandl
 import base64
 import matplotlib.pyplot as plt
-quandl.ApiConfig.api_key = 'zC992yeEkw5VTye5PFJY'
+quandl.ApiConfig.api_key = 'PUT YOUR OWN KEY HERE'
 
 from flask import Flask, render_template
 
