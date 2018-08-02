@@ -1,0 +1,1 @@
+Run app.py to start the local server and visit http://127.0.0.1/7777 to view the graph on an html page.
