@@ -1,5 +1,4 @@
 # Quandl-StockChart
 
-Displays stock graph after GETTING them from Quandl.
+Uses **Flask development Server** to GET stock charts from Quandl and renders them on an HTML page.
 Uses Matplotlib to plot stocks data.
-Renders the graph using Flask development server. 
